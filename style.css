@@ -17,6 +17,7 @@ body {
     background-image:linear-gradient(to right,var(--Lightgray) ,var(--Lightgrayishblue));
     height: 100lvh;
     padding: 50px 30px;
+    font-family: "Barlow Semi Condensed", sans-serif;
 }
 
 .container  {
